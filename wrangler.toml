@@ -1,0 +1,4 @@
+name = "simulationgames-run"
+compatibility_date = "2024-11-19"
+pages_build_output_dir = "out"
+compatibility_flags = ["nodejs_compat"]
